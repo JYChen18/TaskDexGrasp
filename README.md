@@ -1,12 +1,10 @@
 # TaskDexGrasp
 
-[IROS 2024] Task-Oriented Dexterous Hand Pose Synthesis Using Differentiable Grasp Wrench Boundary Estimator
+This repository includes the minimal code of the **grasp wrench boundary estimation** and **task-oriented loss calculation**, proposed in *Task-Oriented Dexterous Hand Pose Synthesis Using Differentiable Grasp Wrench Boundary Estimator [IROS 2024]*.
 
-[Project page](https://pku-epic.github.io/TaskDexGrasp/), [Paper](https://arxiv.org/abs/2309.13586)
+[Project page](https://pku-epic.github.io/TaskDexGrasp/) | [Paper](https://arxiv.org/abs/2309.13586)
 
-This repository only contains a minimal example for the grasp wrench boundary estimation and task-oriented loss calculation. 
-
-The complete optimization pipeline to synthesize grasps will be released later (maybe after several months).
+For the complete grasp synthesis pipeline's code, please look at our follow-up work [BODex](https://pku-epic.github.io/BODex/).
 
 
 ## Installation
